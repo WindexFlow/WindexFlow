@@ -4,7 +4,7 @@
 - 👋 I currently have 17 years old and I'm portuguese
 - 👨‍💻 I'm currently learning pentesting by my own
 - 🥅 2021 Goals: Make more projects and learn more
-- 🙏 Fun fact: I'm in the top 100 in hackthebox
+- 🙏 Fun fact: I'm in the top 100 Portugal in hackthebox
 
 <br />
 
